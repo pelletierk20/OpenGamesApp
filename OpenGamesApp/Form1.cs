@@ -28,8 +28,10 @@ namespace OpenGamesApp
         {
             string item = listBox1.SelectedItem.ToString(); 
             
-            
-            Process.Start(desktopPath + @"\Games\" + item + ".url");
+            Process p = new Process();
+            ProcessStartInfo s = new ProcessStartInfo();
+            s.WorkingDirectory = desktopPath + @"\Games\";
+            Process.Start(s.WorkingDirectory + item + ".url");
         }
 
         private void Form1_Load(object sender, EventArgs e)
