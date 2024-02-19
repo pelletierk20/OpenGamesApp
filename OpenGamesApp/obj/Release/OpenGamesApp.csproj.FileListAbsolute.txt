@@ -1,0 +1,15 @@
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\bin\Release\OpenGamesApp.exe.config
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\bin\Release\OpenGamesApp.exe
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\bin\Release\OpenGamesApp.pdb
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.csproj.AssemblyReference.cache
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.Form1.resources
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.Properties.Resources.resources
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.csproj.GenerateResource.cache
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.csproj.CoreCompileInputs.cache
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.exe
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.pdb
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\bin\Release\OpenGamesApp.exe.manifest
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\bin\Release\OpenGamesApp.application
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.exe.manifest
+C:\Users\kpell\source\repos\OpenGamesApp\OpenGamesApp\obj\Release\OpenGamesApp.application
