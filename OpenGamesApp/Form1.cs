@@ -22,12 +22,14 @@ namespace OpenGamesApp
             InitializeComponent();
         }
 
+        string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+
         private void OpenRL_Click(object sender, EventArgs e)
         {
             string item = listBox1.SelectedItem.ToString(); 
             
-            Process.Start("c:\\Users\\kpell\\OneDrive\\Desktop\\Games\\"+item+".url");
-
+            
+            Process.Start(desktopPath + @"\Games\" + item + ".url");
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -42,7 +44,6 @@ namespace OpenGamesApp
 
             pictureBox1.Image = Image.FromFile("giphy.gif");
             pictureBox1.Show();
-            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             
             FileInfo fileInfo = new FileInfo(desktopPath + @"\Games");
 
